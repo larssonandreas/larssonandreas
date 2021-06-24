@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with 🐍
-- 🌱 I’m currently learning 🤖
-- 💬 Ask me about ☁️
+- 🔭 I’m currently working with Python in the Cloud 🐍
+- 🌱 I’m currently learning about AI/ML 🖥️ 🧠 🔮 🤖
+- 💬 Ask me about Cloud and IaC ☁
 
 <!--
 **larssonandreas/larssonandreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
